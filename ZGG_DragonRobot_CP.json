@@ -1,0 +1,35 @@
+{
+  "Ad_Priority" : "1",
+  "Custom_Ad_Download_link" : [ "com.zgg.police.robot.game", 
+                               "com.zgg.robot.transformation.game", 
+                               "com.zgg.police.robot.game",
+                              "com.zgg.robot.transformation.game", 
+                               "com.zgg.police.robot.game"],
+  
+    "Custom_Icon_Ad_Download_link" : [ "com.hash.spider.robot.hero.game", 
+                               "com.zgg.police.robot.game", 
+                               "com.zgg.robot.transformation.game",
+                              "com.hash.honda.civic.driving.stunt.games", 
+                               "com.hash.bat.hero.game"],
+  
+  "Custom_Ad_Icons_URL" : [ "https://play-lh.googleusercontent.com/lVgO-tJPDlCp6iKweS1GR-JBswMxcVCxhuVLel1sz1P44XWoGJjzwRiz-eCrKIhjDA=w256-h256", 
+                           "https://play-lh.googleusercontent.com/b6J2fYt_-Xs7aAe0FEne7r3E5y-tkKkb6ZbLMRYyELBpqqR363HhdybxaMHXyCImvaI=w256-h256", 
+                           "https://play-lh.googleusercontent.com/SvtzoMfUxHviR1lT-QNjEm64mnmM_jAPrOQdAWnehj25esZveL_3zsewEGAMh1TLcm0=w256-h256",
+                          "https://play-lh.googleusercontent.com/d2rpO8ja1BBJFCPgqfS7tFN8fFL0_qWKMXaTt6Fz2Zim31LxIKBUW9YHWJHpG5HJzpQ=w256-h256",
+                           "https://play-lh.googleusercontent.com/Px7SbWs49d63jjQKuzVZSM8_rTgjpNqGUCgX6DnKHprANNlDCgOfVDf71jp1UdG264I=w256-h256"
+                          ],
+  
+  "Custom_Ad_ScreenShots_URL" : [ "https://play-lh.googleusercontent.com/YRuJdu0g3l-oeJcWiIjnoSl2clrGKPG6hpycreYNyYt_u2xSq3BkUc2wMfn-6VE_xNcN=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/wWPIVEfHMi7QhkDs97M_Q65YCOMLpbPtrFiz_hmJO2awJjHwHU55E5157NgLINgKeS3Y=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/YRuJdu0g3l-oeJcWiIjnoSl2clrGKPG6hpycreYNyYt_u2xSq3BkUc2wMfn-6VE_xNcN=w526-h296",
+                                 "https://play-lh.googleusercontent.com/wWPIVEfHMi7QhkDs97M_Q65YCOMLpbPtrFiz_hmJO2awJjHwHU55E5157NgLINgKeS3Y=w526-h296", 
+                                 "https://play-lh.googleusercontent.com/YRuJdu0g3l-oeJcWiIjnoSl2clrGKPG6hpycreYNyYt_u2xSq3BkUc2wMfn-6VE_xNcN=w526-h296"],
+  "Indetifier_ID" : "com.Game.io.4x4.OFFRoad.JeepParking.2020",
+  "Start_Showing_Ads" : true,
+  "showCP" : true,
+  "doubleBanner" : true,
+  "hideInterstitials" : false,
+  "interstitial_Flow" : 1,
+  "showAppOpen" : true,
+  "init_Open" : 0
+}
