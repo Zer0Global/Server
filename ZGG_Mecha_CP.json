@@ -31,5 +31,6 @@
   "hideInterstitials" : false,
   "interstitial_Flow" : 1,
   "showAppOpen" : true,
-  "init_Open" : 0
+  "init_Open" : 0,
+  "CutSceneLink" : "https://drive.google.com/u/0/uc?id=1Ixr0jilnxHGfEVLyHQrjJSqGAfUtudV2&export=download"
 }
